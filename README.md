@@ -11,6 +11,7 @@ tools :
         
         
 follow the image Développez des sites web avec Java EE_ basic project
+
 1:create new project WEB - Dynamic Web Project - name it "test"
 
 
